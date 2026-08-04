@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "One Book A Week Is A Lot of Books"
-date:   2026-08-03 06:00:00 +0100
+date:   2026-08-10 06:00:00 +0100
 categories: reading
 ---
 
